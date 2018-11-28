@@ -12,5 +12,4 @@ A player continues to select letters until they guess they phrase (and win), or 
 
 If the player completes the phrase before they run out of guesses, a winning screen appears. If the player guesses incorrectly 5 times, a losing screen appears.
 
-
-A player can guess a letter only once. After they’ve guessed a letter, your programming will need to disable that letter on the onscreen keyboard.
+A player can guess a letter only once. After they’ve guessed a letter, the letter is disabled on the onscreen keyboard.
