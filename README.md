@@ -2,7 +2,7 @@
 
 This project is a browser-based, word guessing game. I've used JavaScript and OOP (Object Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.
 
-There are two classes 'Phrase' and 'Game' that help organize the code.
+There are two classes 'Phrase' and 'Game' that help organize the code and create phrases.
 
 The code chooses a random phrase, split the phrase into letters, and put those letters onto the gameboard.
 
